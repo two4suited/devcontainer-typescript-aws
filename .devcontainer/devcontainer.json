@@ -18,7 +18,19 @@
 		"vscode": {
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
-				"dbaeumer.vscode-eslint"
+				"dbaeumer.vscode-eslint",
+				"vscode-icons-team.vscode-icons",
+				"amazonwebservices.aws-toolkit-vscode",
+				"ms-azuretools.vscode-docker",
+				"ms-vscode.vscode-typescript-next",
+				"VisualStudioExptTeam.vscodeintellicode",
+				"esbenp.prettier-vscode",
+				"eamodio.gitlens",
+				"DSKWRK.vscode-generate-getter-setter",
+				"pmneo.tsimporter",
+				"ponicode.ponicode",
+				"stringham.move-ts",
+				"kisstkondoros.vscode-codemetrics"
 			]
 		}
 	},
