@@ -13,6 +13,8 @@ AWS SAM
 
 ## Additional Setup
 
+### AWS KEYS
+
 - Using Codespaces - Add your AWS Key and Secret to the Codespaces Secrets in Github
 - Using Locally - Add a mount in your devcontainer(after customizatoins) to your local .aws/credentials file
 
